@@ -19,7 +19,7 @@ A Python-based ETL (Extract, Transform, Load) pipeline designed to automate the 
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-data-pipeline.git
+   git clone https://github.com/vasilis-alexiou/python-data-pipeline.git
 
 ## 📸 Screenshots
 <img width="933" height="486" alt="7" src="https://github.com/user-attachments/assets/1e3c0b11-5d61-4a1a-a5f2-6b0a23c37dfc" />
